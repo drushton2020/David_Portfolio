@@ -1,6 +1,6 @@
 # David_Portfolio
 
-![](/images/72578.jpeg)
+<img src="/images/72578.jpeg" width=200px>
 
 Data Analytics/ Engineering Portfolio
 
