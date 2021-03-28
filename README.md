@@ -1,4 +1,7 @@
 # David_Portfolio
+
+![](https://github.com/drushton2020/David_Portfolio/blob/main/images/72578.jpeg)
+
 Data Analytics/ Engineering Portfolio
 
 # [Project 1: Visualizing Earnings Based On College Majors and the Gender Gap](https://github.com/drushton2020/Visualizing-Earnings-Based-On-College-Majors)
