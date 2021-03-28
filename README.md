@@ -1,6 +1,6 @@
 # David_Portfolio
 
-![](https://github.com/drushton2020/David_Portfolio/blob/main/images/72578.jpeg)
+![](/images/72578.jpeg)
 
 Data Analytics/ Engineering Portfolio
 
