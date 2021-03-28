@@ -1,6 +1,6 @@
 # David_Portfolio
 
-<img src="/images/72578.jpeg" width=200px height=200px>
+<img src="/images/72578.jpeg" width=200px height=200px display: flex>
 
 Data Analytics/ Engineering Portfolio
 
